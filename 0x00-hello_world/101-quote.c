@@ -2,7 +2,7 @@
 /**
  * main - Write
  * a new line to the standard error
- * Return: 0 (sucess)
+ * Return: 1 (sucess)
  */
 int main(void)
 {
