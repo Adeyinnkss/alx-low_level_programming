@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-* main - This program prints size of various output
-* Return: 0
+* main - Entry point
+* Return: Always 0 (Success)
 */
 int main(void)
 {
