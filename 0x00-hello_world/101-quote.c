@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include <unistd.h>
 /**
- * main - Write
+ * main - prints "and that piece of art is useful" - Dora Korpar, 2015-10-19
  * a new line to the standard error
  * Return: 1 (sucess)
  */
