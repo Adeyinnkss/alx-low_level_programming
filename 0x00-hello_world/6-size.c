@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *main -This program prints size of various output
- *Return: 0
- */
+* main - This program prints size of various output
+* Return: 0
+*/
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
